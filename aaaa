@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF:1,group-title="MBC",MBC 1
+#EXTINF:-1 group-title="MBC",MBC 1
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/62564.m3u8?checkedby:hlscat.com
-#EXTINF:1,MBC 2
+#EXTINF:-1,MBC 2
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21185.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC 3
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21184.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC 4
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21184.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC 5
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21186.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC Action
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23079.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC BOLLYWOOD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23074.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC DRAMA
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23073.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC Iraq
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/84196.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC EGYPT
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23072.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC EGYPT 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23071.m3u8?checkedby:hlscat.com
+#EXTINF:-1, MBC MAX
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23070.m3u8?checkedby:hlscat.com
