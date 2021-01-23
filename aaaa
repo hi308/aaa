@@ -23,3 +23,235 @@ http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23072.m3u8?checked
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23071.m3u8?checkedby:hlscat.com
 #EXTINF:-1, MBC MAX
 http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23070.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="ROTANA",Rotana Comedy
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:23/iB3OuVaDYu/64263.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana Aflam
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22988.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana Cinema
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22990.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana Classic
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22989.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana Clip
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22991.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana kaligi
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22992.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana Egypt
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22993.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Rotana Music
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22994.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="bein sports",bein sports news
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/78372.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 9
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13672.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 8
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13674.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 7
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13605.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 6
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13678.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 5
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13680.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 4
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13682.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 3
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13684.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13610.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bein Sports 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/13611.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="arabian news",al jazeera arabia
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23063.m3u8?checkedby:hlscat.com
+#EXTINF:-1,al arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,al hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,sharqiya news
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,al mamlaka
+https://almamlka-live.ercdn.net/almamlka/almamlka_720p.m3u8?checkedby:hlscat.com
+#EXTINF:-1,sky news ar
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23060.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bbc ar
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23056.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Russia today ar
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23058.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1,France 24 ar
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/64262.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8?checkedby:hlscat.com
+#EXTINF:-1,DW Arabic
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23057.m3u8?checkedby:hlscat.com
+#EXTINF:-1,TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8?checkedby:hlscat.com
+#EXTINF:-1, al maydeen
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22870.m3u8?checkedby:hlscat.com
+#EXTINF:-1,CNBC Arabia
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23059.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="arabian sports",alkass 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92101.m3u8?checkedby:hlscat.com
+#EXTINF:-1,alkass 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92100.m3u8?checkedby:hlscat.com
+#EXTINF:-1,alkass 4
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92099.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Ksa sports 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92092.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Ksa sports 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/89077.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Abu Dhabi sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Abu Dhabi sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:hlscat.com
+#EXTINF:-1,Dubai Sports 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92116.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Dubai Sports 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92115.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Dubai Sports 3
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/92114.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="arabian documentary",National geographic ar
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22727.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Jazeera al withaqiya
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="islamic",Saudia quarn
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Saudia Sunnah
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
+#EXTINF:-1,iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,iqraa europe africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Rahma
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23032.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Makkah Tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Resalah
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23031.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="arabian kids",CN Arabic
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22742.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Baraem
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22746.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Boomerang
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22746.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Syria",Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Lana HD Tv
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Noor al Sham
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Satalite channel
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Education Tv
+http://82.137.248.16:1935/Sat/stream10112020/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="lebnan",Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Hayat tv
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Aliman tv
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Future Tv
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1,LBC
+http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:-1,OTV
+http://178.132.3.162:88/OTV/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:-1 group-title="palestine",Al Aqsa Channel
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Najah Nbc
+http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573&checkedby:hlscat.com
+#EXTINF:-1,Musawa Channel
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Satallite channel
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8?checkedby:hlscat.com
+#EXTINF:-1,wattan tv
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Jordan",Roya tv
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Amman tv
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Jordan tv
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Iraq",Al Hurra
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Rafiden
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Babylon
+https://babylonlive.net/babylontv/kardokardo.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="saudia",Al Khaligi
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,MBC Fm
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Saudi tv 1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="yemen",Aden tv
+https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943&checkedby:hlscat.com
+#EXTINF:-1,Al Masirah
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Alghad al mushriq
+http://82.212.74.3:8000/live/7512.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Suhail tv
+http://82.212.74.98:8000/live/hls/7726.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Yemen Shabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Yemen TV
+https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="uae",Dubai zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:hlscat.com
+#EXTINF:-1,Al Sharqiya from kalba
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Dubai tv
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv&checkedby:hlscat.com
+#EXTINF:-1,Noor dubai 
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Peace tv
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Sama dubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Qatar",Qatar tv
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8?checkedby:hlscat.com
+#EXTINF:-1,al rayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,al rayyan al qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Bahrain",Bahrain international
+http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bahrain quarn
+http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Bahrain tv
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist_w721264201.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="kuwait",Alrai tv
+https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998&checkedby:hlscat.com
+#EXTINF:-1,KTV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:-1,KTV 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="egypt",Al horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1, Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Al Nahar
+http://178.132.3.162:88/Al_Nahar_Tv/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:-1,Al Nahar Drama
+http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:-1 Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1,Cairo Cimema
+http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:-1,Cairo Drama
+http://178.132.3.162:88/Cairo_Drama/video.m3u8?token=test&checkedby:hlscat.com
+#EXTINF:-1,Cima
+http://178.132.3.162:88/Cima/video.m3u8?token=test&checkedby:hlscat.com
