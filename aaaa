@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:1,group-title="MBC",MBC 1
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/62564.m3u8?checkedby:hlscat.com
+#EXTINF:1,MBC 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/21185.m3u8?checkedby:hlscat.com
